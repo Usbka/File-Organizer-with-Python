@@ -22,3 +22,13 @@ A Python script that automatically organizes files into categorized folders like
 - GUI version
 - Duplicate file detection
 - File size-based sorting
+
+## 📂 Example
+
+Before:
+file1.pdf, image.jpg, song.mp3
+
+After:
+Images 📂
+Documents 📂
+Music 📂
